@@ -58,7 +58,7 @@ Pin | nombre |Tipo    |
 
 
 1111111111111111
-hola
+hola123
 ## Programación en lenguaje v
 
 ### Configuración puertos de salida
